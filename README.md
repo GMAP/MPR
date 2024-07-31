@@ -1,8 +1,12 @@
-![mpr_logo](https://github.com/GMAP/MPR/assets/40276058/858d8734-21fa-462f-8ea7-a849c4392730)
+<img src="https://github.com/user-attachments/assets/7d7d04a4-db73-41cb-8e59-24667d685407" width="500">
 
 # MPR: An MPI Framework for Distributed Self-Adaptive Stream Processing
 
 MPR (Message Passing Runtime) is a framework and runtime system for implementing and assessing self-adaptive algorithms and optimizations. MPR is implemented in C++ on top of MPI's dynamic process management targeting high performance, low latency, and flexibility.
+
+# How to cite
+
+To be included.
 
 ## Introduction
 
@@ -77,10 +81,6 @@ $ mpirun --np 1 prime_mpr 1200000
 $ cd ../config
 $ python3 plot_stats.py
 ```
-
-# How to cite
-
-To be included.
 
 # Limitations
 
