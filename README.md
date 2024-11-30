@@ -6,7 +6,7 @@ MPR (Message Passing Runtime) is a framework and runtime system for implementing
 
 # How to cite
 
-To be included.
+Löff, J., Griebler, D., Fernandes, L.G., Binder, W.. **MPR: An MPI Framework for Distributed Self-adaptive Stream Processing**. In: Euro-Par 2024: Parallel Processing. 2024 [[PDF]](https://doi.org/10.1007/978-3-031-69583-4_28)
 
 ## Introduction
 
